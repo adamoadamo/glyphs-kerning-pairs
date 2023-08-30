@@ -16,7 +16,6 @@ def analyze_metrics(font):
     return cap_height, x_height, baseline, descender
 
 def set_side_bearings(glyph):
-    # Example logic: set side bearings based on glyph width
     width = glyph.width
     if width < 200:
         glyph.LSB = 20

@@ -1,2 +1,4 @@
-# Kerning Setup Script for Glyphs
-A  Python script to take a first pass at setting up side bearings and kerning with basic logic. Intended for use with [Glyphs](https://glyphsapp.com).
+# Kerning Pair Script for Glyphs
+Python scripts that will produce a list all possible pairings in the open font project. 
+
+[Glyphs](https://glyphsapp.com).
